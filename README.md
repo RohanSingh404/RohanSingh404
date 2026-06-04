@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
+<div align="left">
 
 ```json
 {
@@ -73,13 +73,7 @@
 
 ---
 
-<div align="center">
 
-## 🔥 Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RohanSingh404&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
