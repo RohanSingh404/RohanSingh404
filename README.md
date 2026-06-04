@@ -30,7 +30,7 @@
 }
 ```
 
-
+</div>
 
 ---
 
@@ -57,18 +57,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-</div>
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=RohanSingh404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanSingh404&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
