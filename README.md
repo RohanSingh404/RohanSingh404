@@ -1,4 +1,4 @@
-## Hi there 👋
+## Digital Identity 👋
 
 <div align="left">
 
@@ -30,7 +30,7 @@
 }
 ```
 
-</div>
+
 
 ---
 
@@ -60,6 +60,7 @@
 
 </div>
 
+</div>
 ---
 
 <div align="center">
