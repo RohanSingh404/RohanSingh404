@@ -5,7 +5,7 @@
 ```json
 {
   "profile": {
-    "name": "Your Name",
+    "name": "Rohan Singh",
     "title": "Full Stack Developer",
     "location": {
       "city": "Hapur, UttarPradesh",
@@ -17,7 +17,7 @@
     "domain": "Full Stack Development",
     "focus": [
       "Scalable Web Applications",
-      "RESTful & GraphQL APIs",
+      "RESTful APIs & FastAPIs",
       "Database Design",
       "Cloud Deployment"
     ]
