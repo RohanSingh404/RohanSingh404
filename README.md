@@ -6,7 +6,7 @@
 {
   "profile": {
     "name": "Rohan Singh",
-    "title": "Full Stack Developer",
+    "title": "Full Stack AI Developer , Aspiring Data Scientist",
     "location": {
       "city": "Hapur, UttarPradesh",
       "country": "India",
@@ -14,12 +14,12 @@
     }
   },
   "specialization": {
-    "domain": "Full Stack Development",
+    "domains": "Full Stack AI Development , Data Science",
     "focus": [
       "Scalable Web Applications",
       "RESTful APIs & FastAPIs",
-      "Database Design",
-      "Cloud Deployment"
+      "Model Training",
+      "LLMs"
     ]
   },
   "status": {
