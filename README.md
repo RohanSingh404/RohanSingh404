@@ -6,7 +6,7 @@
 {
   "profile": {
     "name": "Rohan Singh",
-    "title": "Full Stack AI Developer , Aspiring Data Scientist",
+    "title": "Data Scientist, Full Stack AI Developer",
     "location": {
       "city": "Hapur, UttarPradesh",
       "country": "India",
@@ -14,11 +14,11 @@
     }
   },
   "specialization": {
-    "domains": "Full Stack AI Development , Data Science",
+    "domains": "Data Science , Full Stack Development",
     "focus": [
       "Scalable Web Applications",
       "RESTful APIs & FastAPIs",
-      "Model Training",
+      "AI/ML",
       "LLMs"
     ]
   },
@@ -70,7 +70,7 @@
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://yourportfolio.com](https://matrixportfolioo.netlify.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RohanSingh404)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thissrohansingh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohansinghiitian6395@gmail.com)
